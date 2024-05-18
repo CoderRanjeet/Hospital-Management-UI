@@ -91,6 +91,7 @@
     <Content Include="assets\img\gallery\gallery-6.jpg" />
     <Content Include="assets\img\gallery\gallery-7.jpg" />
     <Content Include="assets\img\gallery\gallery-8.jpg" />
+    <Content Include="assets\img\icon.png" />
     <Content Include="assets\img\karan %282%29.jpg" />
     <Content Include="assets\img\karan.jpg" />
     <Content Include="assets\img\logo.png" />
@@ -109,6 +110,7 @@
     <Content Include="assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="assets\img\testimonials\testimonials-5.jpg" />
     <Content Include="assets\js\main.js" />
+    <Content Include="assets\silvercrest.jpg" />
     <Content Include="assets\vendor\animate.css\animate.compat.css" />
     <Content Include="assets\vendor\animate.css\animate.css" />
     <Content Include="assets\vendor\animate.css\animate.min.css" />

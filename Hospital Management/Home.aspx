@@ -203,39 +203,40 @@
 
                 <div class="section-title">
                     <h2>Services</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>"Services" refer to intangible activities or benefits provided to customers, typically in exchange for payment. They can range from professional services like consulting, legal advice, and healthcare, to personal services such as grooming, cleaning, and repair work. Unlike products, services are consumed at the point of delivery and are often customized to meet the specific needs of the client.</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon"><i class="fas fa-heartbeat"></i></div>
                         <h4 class="title"><a href="#">Total Care</a></h4>
-                        <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                        <p class="description">"Total Care" refers to a comprehensive approach to health and wellness that addresses all aspects of an individual's well-being. This includes physical, mental, and emotional health services.</p>
                     </div>
                     <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon"><i class="fas fa-pills"></i></div>
                         <h4 class="title"><a href="#">Medicines</a></h4>
-                        <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                        <p class="description">"Medicines" are substances or compounds used to diagnose, treat, cure, or prevent diseases and medical conditions.</p>
                     </div>
                     <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon"><i class="fas fa-hospital-user"></i></div>
                         <h4 class="title"><a href="#">Expert Consultancy</a></h4>
-                        <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                        <p class="description">
+                           "Expert Consultancy" refers to specialized professional advice provided by individuals or firms with extensive knowledge and experience in a particular field.</p>
                     </div>
                     <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon"><i class="fas fa-dna"></i></div>
                         <h4 class="title"><a href="#">Bed Facility</a></h4>
-                        <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                        <p class="description">"Bed Facility" refers to an establishment or service that provides accommodations for sleeping and resting. This can include hospitals, hotels, nursing homes, and other institutions that offer beds for patients, travelers, or residents. </p>
                     </div>
                     <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon"><i class="fas fa-wheelchair"></i></div>
                         <h4 class="title"><a href="#">24/7 Ambulance</a></h4>
-                        <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                        <p class="description">"24/7 Ambulance" refers to an emergency medical service that operates around the clock, providing immediate transportation and medical care to individuals in need.</p>
                     </div>
                     <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon"><i class="fas fa-notes-medical"></i></div>
                         <h4 class="title"><a href="#">Free Checkup</a></h4>
-                        <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                        <p class="description">"Free Checkup" refers to a complimentary health examination offered by medical professionals. These checkups typically include basic health assessments</p>
                     </div>
                 </div>
 
@@ -249,7 +250,8 @@
 
                 <div class="section-title">
                     <h2>Make an Appointment</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>
+"Make an appointment" refers to the process of scheduling a specific time and date for a meeting or event. This can be done in various contexts, such as booking a doctor's visit, arranging a business meeting, or setting up a personal engagement. </p>
                 </div>
 
                 <div class="php-email-form" data-aos="fade-up" data-aos-delay="100">
